@@ -68,9 +68,14 @@ location: 🌍 Earth | 🌐 Internet
 ## 📊 GitHub Activity
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&column=9" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_title=true" /><br /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_title=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-singh-gehlot&layout=compact&theme=tokyonight" /> </p>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyesh-singh-gehlot&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyesh-singh-gehlot&theme=tokyonight" />
+</p>
 
 
 
