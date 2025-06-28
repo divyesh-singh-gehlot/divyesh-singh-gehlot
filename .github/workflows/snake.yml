@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: divyesh-singh-gehlot
-          outputs: dist/snake.svg?palette=custom&color_snake=#ffffff&color_dots=#c3aed6,#e0bbe4,#d291bc,#957dad,#d5aaed
+          outputs: dist/snake.svg?palette=custom&color_snake=#00FFF7&color_dots=#0f0f0f,#1a1a1a,#00FFF7,#00D1FF,#08F7FE,#A1FFE4
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
