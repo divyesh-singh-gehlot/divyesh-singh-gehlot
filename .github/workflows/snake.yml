@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -17,11 +17,11 @@ jobs:
 
     steps:
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@platane/patch-custom-color
+        uses: anmol098/snk@master  # ✅ Fork with custom color support
         with:
           github_user_name: divyesh-singh-gehlot
           outputs: dist/snake.svg
-          palette: "custom"
+          palette: custom
           color_snake: "#00FFF7"
           color_dots: "#000000,#0f0f0f,#1a1a1a,#00FFF7,#00c2ff"
 
