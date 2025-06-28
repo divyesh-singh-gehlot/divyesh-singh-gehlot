@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=🚀+Divyesh+Singh+Gehlot;💻+Full+Stack+Web+Developer;⚛️+React+%7C+Three.js+%7C+GSAP+Enthusiast;🧠+Engineering+Futuristic+Interfaces" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/divyesh-singh-gehlot/divyesh-singh-gehlot/output/snake.svg)
+!<img src="https://raw.githubusercontent.com/divyesh-singh-gehlot/divyesh-singh-gehlot/output/snake.svg" alt="Snake animation" />
 
 ---
 
