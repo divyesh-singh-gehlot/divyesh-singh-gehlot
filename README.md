@@ -59,6 +59,7 @@ location: 🌍 Earth | 🌐 Internet
   <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Canva-0a0a0a?style=for-the-badge&logo=canva&logoColor=00C4CC" />
   <img src="https://img.shields.io/badge/WordPress-0a0a0a?style=for-the-badge&logo=wordpress&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=orange" />
 </p>
 
 </div>
