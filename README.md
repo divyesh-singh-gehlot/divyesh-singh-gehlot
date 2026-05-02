@@ -79,6 +79,7 @@ location: 🌍 Earth | 🌐 Internet
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyesh-singh-gehlot&theme=tokyonight" />
 </p>
 
-
+## 👁️ Profile Views
+![Views](https://komarev.com/ghpvc/?username=divyesh-singh-gehlot&color=00f9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f9ff&height=150&section=footer" />
