@@ -68,15 +68,18 @@ location: 🌍 Earth | 🌐 Internet
 <p align="center"> <a href="mailto:gehlotdivyeshsingh@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=red" /></a> <a href="https://www.linkedin.com/in/divyesh-singh-gehlot-792055295/"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a> </p>
 
 ## 📊 GitHub Activity
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&column=9" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_title=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-singh-gehlot&layout=compact&theme=tokyonight" /> </p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+</div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyesh-singh-gehlot&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyesh-singh-gehlot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-singh-gehlot&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Card" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyesh-singh-gehlot&theme=tokyonight" alt="Repos Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyesh-singh-gehlot&theme=tokyonight" alt="Productivity Card" />
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f9ff&height=150&section=footer" />
