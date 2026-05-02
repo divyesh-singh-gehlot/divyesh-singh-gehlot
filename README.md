@@ -69,17 +69,19 @@ location: 🌍 Earth | 🌐 Internet
 
 ## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+  <!-- Interactive Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-singh-gehlot&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Card" height="192px" />
+  <!-- NEW: Daily Streak Stats - Very reliable for 2026 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyesh-singh-gehlot&theme=tokyonight&hide_border=true&count_private=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyesh-singh-gehlot&theme=tokyonight" alt="Repos Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyesh-singh-gehlot&theme=tokyonight" alt="Productivity Card" />
+  <!-- REPLACED: Use the 'fast' server instance to fix the 'missing' icons -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=divyesh-singh-gehlot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" height="192px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divyesh-singh-gehlot&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Languages Card" height="192px" />
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f9ff&height=150&section=footer" />
