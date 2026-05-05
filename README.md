@@ -70,7 +70,7 @@ location: 🌍 Earth | 🌐 Internet
 ## 📊 GitHub Activity
 <div align="center">
   <!-- Interactive Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyesh-singh-gehlot&theme=tokyonight&no-bg=true&column=7&count_private=true" alt="Trophies" />
 </div>
 
 <p align="center">
